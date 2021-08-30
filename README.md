@@ -2,11 +2,11 @@
 This dataset has been created for a personal project related to the recognition of the original language of someone writing in english.
 
 ## Origin
-The dataset has been crawled from the subreddit r/europe and contains around 1.2 milions posts in it's raw form.
+The dataset has been crawled from the subreddit r/europe and contains around 12 milions posts in it's raw form.
 
 ## Structure
 
-This repo contains both the [raw data](https://github.com/Tsadoq/Reddit_EU_language_dataset/tree/main/data) and the [cleaned data](https://github.com/Tsadoq/Reddit_EU_language_dataset/tree/main/cleaned_data), the latter, purged of deleted comments and of those that were not linked to the provenience of the writer, has the following structure:
+This repo contains both the [raw data](https://github.com/Tsadoq/Reddit_EU_language_dataset/tree/main/data) and the [cleaned data](https://github.com/Tsadoq/Reddit_EU_language_dataset/tree/main/cleaned_data), the latter, purged of deleted comments and of those that were not linked to the provenience of the writer, contains around 5mln datapoints and has the following structure:
 
 * body: the text content of the comment
 * country_name: extended name of the country
