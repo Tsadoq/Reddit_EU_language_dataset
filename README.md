@@ -25,3 +25,15 @@ As it might be imagined, the dataset is far from being balanced with respect to 
 
 ## Download
 You can download the whole repository or [only the cleaned dataset from this link](https://downgit.github.io/#/home?url=https://github.com/Tsadoq/Reddit_EU_language_dataset/tree/main/cleaned_data)
+
+## If you use this dataset please cite me
+```latex
+@article{villosio_2021, 
+        title={Reddit EU language dataset},
+        url={https://github.com/Tsadoq/Reddit_EU_language_dataset},
+        journal={GitHub.com},
+        author={Villosio, Matteo},
+        year={2021}, month={Aug}
+}
+```
+
